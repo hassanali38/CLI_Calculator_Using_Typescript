@@ -1,4 +1,4 @@
-# CLI_Calculator_Using_Typescript
+# CLI_calculator_ts_project00
 I have created this CLI based simple calculator, as my first project in TypeScript, using:
 <br>1- TypeScript
 <br>2- Node.js
