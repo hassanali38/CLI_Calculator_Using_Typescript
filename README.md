@@ -5,3 +5,13 @@ I have created this CLI based simple calculator, as my first project in TypeScri
 <br>3- Inquirer Package
 
 This calculator allows the users to enter two numbers and then select the operations from the five basic arithmetic operations. At the end, it displays the result of operation on the screen and also promopt the user to use the calculator again or to close the program.
+
+## npx Command
+
+- The npx command is:
+
+    ```bash
+    npx cli-calculator-byhassanali
+    ```
+  
+      
